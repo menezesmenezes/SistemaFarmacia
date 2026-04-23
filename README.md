@@ -3,9 +3,9 @@ SistemaFarmacia
 Projeto simples em Java para gerenciamento de uma farmácia, com conexão a banco de dados MySQL.
 
 Tecnologias
-Java
- JDBC
- MySQL
+Java,
+ JDBC,
+ MySQL e
  IntelliJ IDEA
 
 Funcionalidades
