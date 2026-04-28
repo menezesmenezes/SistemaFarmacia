@@ -10,8 +10,8 @@ Java,
 
 Funcionalidades
 Cadastro de medicamentos
- Listagem de medicamentos
- Conexão com banco de dados
+Listagem de medicamentos
+Conexão com banco de dados
 
 Banco de Dados
 O projeto utiliza MySQL rodando localmente.
