@@ -22,10 +22,10 @@ Configuração:
 - Senha: não incluída por segurança
 
 ## Como executar
-1. Clone o repositório
-2. Configure o banco de dados localmente
-3. Ajuste usuário e senha no código (ou utilize variáveis de ambiente)
-4. Execute a classe Main.java
+1. Clonar o repositório
+2. Configurar o banco de dados localmente
+3. Ajustar usuário e senha no código (ou usar variáveis de ambiente)
+4. Executar a classe Main.java
 
 ## Sobre o projeto
 Este projeto foi desenvolvido com foco em aprendizado prático de:
