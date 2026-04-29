@@ -1,37 +1,37 @@
-Sistema de Farmácia
+# Sistema de Farmácia
 
 Projeto desenvolvido em Java para gerenciamento de uma farmácia, com integração a banco de dados MySQL.
 
-Tecnologias utilizadas
-- Java  
-- JDBC  
-- MySQL  
-- IntelliJ IDEA  
+## Tecnologias utilizadas
+- Java
+- JDBC
+- MySQL
+- IntelliJ IDEA
 
-Funcionalidades
-- Cadastro de medicamentos  
-- Listagem de medicamentos  
-- Conexão com banco de dados  
+## Funcionalidades
+- Cadastro de medicamentos
+- Listagem de medicamentos
+- Conexão com banco de dados
 
-Banco de Dados
+## Banco de Dados
 O projeto utiliza MySQL rodando localmente.
 
 Configuração:
-- URL: jdbc:mysql://localhost:3306/farmacia  
-- Usuário: root  
-- Senha: não incluída por segurança  
+- URL: jdbc:mysql://localhost:3306/farmacia
+- Usuário: root
+- Senha: não incluída por segurança
 
-Como executar
-1. Clone o repositório  
-2. Configure o banco de dados localmente  
-3. Ajuste usuário e senha no código (ou utilize variáveis de ambiente)  
-4. Execute a classe `Main.java`  
+## Como executar
+1. Clone o repositório
+2. Configure o banco de dados localmente
+3. Ajuste usuário e senha no código (ou utilize variáveis de ambiente)
+4. Execute a classe Main.java
 
-Sobre o projeto
+## Sobre o projeto
 Este projeto foi desenvolvido com foco em aprendizado prático de:
-- Programação em Java  
-- Integração com banco de dados (JDBC)  
-- Estruturação de aplicações back-end  
+- Programação em Java
+- Integração com banco de dados (JDBC)
+- Estruturação de aplicações back-end
 
-Autor
-Gilberto Menezes  
+## Autor
+Gilberto Menezes
